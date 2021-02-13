@@ -2,8 +2,6 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fflucas&repo=fflucas&countColorcountColor)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
-
 
 My name is Fábio.
 
@@ -33,11 +31,11 @@ My name is Fábio.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fflucas&layout=compact&count_private=true&theme=dark)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fflucas&layout=compact&count_private=true&theme=tokyonight)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=fflucas&count_private=true&theme=dark&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=fflucas&count_private=true&theme=tokyonight&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fflucas&hide_border=true&theme=dark)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fflucas&hide_border=true&theme=tokyonight)
 
 ### Let's connect? 🤝
 
