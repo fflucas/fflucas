@@ -1,7 +1,7 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fflucas&repo=fflucas&countColorcountColor)
 
-<h1>Hi there<img src="https://github.com/fflucas/fflucas/main/Assets/Hi.gif" width="29px"></h1>
+<h1>Hi there<img src="https://github.com/fflucas/fflucas/blob/main/Assets/Hi.gif" width="29px"></h1>
 
 My name is Fábio.
 
@@ -31,16 +31,18 @@ My name is Fábio.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fflucas&layout=compact&count_private=true&theme=tokyonight)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=fflucas&count_private=true&theme=tokyonight&show_icons=true)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=fflucas&hide_border=true&theme=tokyonight)
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fflucas&layout=compact&count_private=true&theme=tokyonight)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=fflucas&count_private=true&theme=tokyonight&show_icons=true)
 
 <details>
   <summary>😄 Here is meme for you, to make your day better</summary>
-   <a href="https://github.com/fflucas"><img src="https://github.com/fflucas/fflucas/main/Assets/avengers.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
+   <a href="https://github.com/fflucas"><img src="https://github.com/fflucas/fflucas/blob/main/Assets/avengers.jpg" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
 
-### Let's connect? <img src="https://github.com/fflucas/fflucas/main/Assets/handshake.gif" height="32px">
+### Let's connect? <img src="https://github.com/fflucas/fflucas/blob/main/Assets/handshake.gif" height="32px">
 
 <p align="left">
 
@@ -52,4 +54,4 @@ My name is Fábio.
 <a href="mailto:fflucas@hotmail.com"><img src="https://img.shields.io/badge/-fflucas@hotmail.com-3677D1?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://github.com/fflucas/fflucas/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/fflucas/fflucas/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
