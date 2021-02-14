@@ -42,7 +42,7 @@ My name is Fábio.
    <a href="https://github.com/fflucas"><img src="https://github.com/fflucas/fflucas/blob/main/Assets/avengers.jpg" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
 
-### Let's connect? <img src="https://github.com/fflucas/fflucas/blob/main/Assets/handshake.gif" height="32px">
+### Let's connect? <img src="https://github.com/fflucas/fflucas/blob/main/Assets/Handshake.gif" height="32px">
 
 <p align="left">
 
