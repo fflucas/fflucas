@@ -38,7 +38,7 @@ My name is Fábio.
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=fflucas&count_private=true&theme=tokyonight&show_icons=true)
 
 <details>
-  <summary>😄 Here is meme for you, to make your day better</summary>
+  <summary>😄 Here's a meme to make your day better</summary>
    <a href="https://github.com/fflucas"><img src="https://github.com/fflucas/fflucas/blob/main/Assets/avengers.jpg" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
 
