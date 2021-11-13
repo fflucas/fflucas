@@ -21,8 +21,9 @@ My name is Fábio.
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache)&nbsp;
 
-
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazondynamodb)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
