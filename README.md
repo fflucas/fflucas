@@ -5,7 +5,7 @@
 
 My name is Fábio.
 
-- 🔭 I'm currently working as backend developer at [Zup Innovation](https://www.zup.com.br/) and at the startup called BSafer.
+- 🔭 I'm currently working as backend developer at Visagio and at the startup called BSafer.
 - 🌱 I'm learning a lot about Node.js, Spring and the technological stacks that involve the development of APIs.
 
 ### Languages & Tools 🛠
